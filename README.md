@@ -5,3 +5,5 @@ From cesiumForum10502 folder:
 run:
 npm install
 npm run test
+
+Needs Java and NodeJS
