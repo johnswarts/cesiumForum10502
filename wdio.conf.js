@@ -2,7 +2,7 @@ var baseUrl;
 var timeout;
 
 
-baseUrl = 'https://test2.onesky.xyz';
+baseUrl = 'https://app.onesky.xyz';
 
 
 if(process.env.DEBUG === 'true'){
